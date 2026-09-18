@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.sif
+*.log
+*.out
+*.err
+*spliceai_results*.csv
+spred1_hgvs_variants.txt
+*.xlsx
+*.xls
+.DS_Store
